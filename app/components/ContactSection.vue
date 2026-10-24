@@ -23,7 +23,7 @@
 
           <div class="mt-7 flex flex-wrap gap-3 sm:mt-9 sm:gap-4">
 
-            <a href="https://wa.me/6282221992987" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 rounded-lg bg-[#2563EB] px-5 py-3 text-sm font-semibold text-white transition hover:bg-blue-500 sm:px-6 sm:py-3.5 sm:text-base">
+            <a href="https://wa.me/6282221002987" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 rounded-lg bg-[#2563EB] px-5 py-3 text-sm font-semibold text-white transition hover:bg-blue-500 sm:px-6 sm:py-3.5 sm:text-base">
               Hubungi Saya
               <span aria-hidden="true">↗</span>
             </a>
